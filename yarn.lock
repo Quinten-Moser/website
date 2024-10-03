@@ -1521,12 +1521,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tamagui/constants@npm:1.111.13":
-  version: 1.111.13
-  resolution: "@tamagui/constants@npm:1.111.13"
+"@tamagui/constants@npm:1.112.16":
+  version: 1.112.16
+  resolution: "@tamagui/constants@npm:1.112.16"
   peerDependencies:
     react: "*"
-  checksum: 10c0/6a16efb24ac391a10c0a12c56ae33665f5ce2a39fc4f9c84bb2bc10143b863d239fc9d420c7d355a936723cc263da7912fb942225756eb402a4a4017bb5896e7
+  checksum: 10c0/0d27e485af85d806bbbdc85861bfaaedb0395fdd2d141e5ef713f969212dc714ddf48214b42018702f4317d3b2f5302c8a8fc4d386d86eab627a888f44730932
   languageName: node
   linkType: hard
 
@@ -1923,15 +1923,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tamagui/next-theme@npm:^1.111.13":
-  version: 1.111.13
-  resolution: "@tamagui/next-theme@npm:1.111.13"
+"@tamagui/next-theme@npm:^1.112.16":
+  version: 1.112.16
+  resolution: "@tamagui/next-theme@npm:1.112.16"
   dependencies:
-    "@tamagui/constants": "npm:1.111.13"
-    "@tamagui/use-event": "npm:1.111.13"
+    "@tamagui/constants": "npm:1.112.16"
+    "@tamagui/use-event": "npm:1.112.16"
   peerDependencies:
     react: "*"
-  checksum: 10c0/391c2333af41f49090d3203936f3844906b6ade20a8ddef3f671ac03ec2684edf53801fe428f09a4a9b4f4fc190ef6be6d927b70c2b24616699781f97fdd99a3
+  checksum: 10c0/f3754cc3fd2ee6a132e61e4938c987f06de8864d9edcbb7b14d93b7fc411b8477dddea093268c3969cbb5cd0451f2f0923fefe882e6ac3d62bf1eb54292b3e22
   languageName: node
   linkType: hard
 
@@ -2581,14 +2581,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tamagui/use-event@npm:1.111.13":
-  version: 1.111.13
-  resolution: "@tamagui/use-event@npm:1.111.13"
+"@tamagui/use-event@npm:1.112.16":
+  version: 1.112.16
+  resolution: "@tamagui/use-event@npm:1.112.16"
   dependencies:
-    "@tamagui/constants": "npm:1.111.13"
+    "@tamagui/constants": "npm:1.112.16"
   peerDependencies:
     react: "*"
-  checksum: 10c0/139278b5b1e37a811108aeb3bab6fdaf83e7110b736abaeb83ae3ca35b02e68a98cad827715487047ef5e17a8d88343fc2ed90bb31c5b20fcf4ca6797e66c1be
+  checksum: 10c0/26ff1a473b5ffded02e09f6f6aa3861ac80194472f1435243955bccde7afb467d03b0100a82cb24f1c057a7d9fe72f554b27f68aa5d84fe86fafc8b62a17ca31
   languageName: node
   linkType: hard
 
@@ -9085,7 +9085,7 @@ __metadata:
     "@tamagui/config": "npm:^1.101.3"
     "@tamagui/lucide-icons": "npm:^1.112.7"
     "@tamagui/next-plugin": "npm:^1.101.3"
-    "@tamagui/next-theme": "npm:^1.111.13"
+    "@tamagui/next-theme": "npm:^1.112.16"
     "@tanstack/react-query": "npm:^5.56.2"
     "@types/node": "npm:^22"
     "@types/react": "npm:^18"
